@@ -1,6 +1,6 @@
 ## 👋 Welcome to isayaksh's github page!
 
-#### Hello I'm Sang Hyun Kim
+####
 #### 
 ***
 
