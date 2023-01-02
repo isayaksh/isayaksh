@@ -2,7 +2,8 @@
 
 ##### 🧷 KoreaTech Univ. Computer Science Engineering
 ##### 🧷 Web Back-End Engineer
-***
+
+#
 
 <div flex="float" align="center">
   <h3>⚡️ SKILLS </h3>
@@ -32,9 +33,8 @@
   </a>
 </div>
 
-***
+#
 
 |Most Used Language|GitHub Stas|
 |:-:|:-:|
 |<img width="500px" src="https://github-readme-stats.vercel.app/api?username=isayaksh&theme=merko&show_icons=true"/>|<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isayaksh&theme=merko&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>|
-***
