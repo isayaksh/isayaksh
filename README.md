@@ -22,7 +22,7 @@
   <a href="https://velog.io/@isayaksh">
     <img height="25px" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=000000"/>
   </a>
-  <a href="">
+  <a href="https://www.notion.so/fcadca1adebc42e9885d97b65a389fdf">
     <img height="25px" src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=000000"/>
   </a>
 </div>
