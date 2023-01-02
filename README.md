@@ -1,6 +1,6 @@
 ## 👋 Welcome to isayaksh's github page!
 
-##### 🧷 KoreaTech Univ. Software Engineering
+##### 🧷 KoreaTech Univ. Computer Science Engineering
 ##### 🧷 Web Back-End Engineer
 ***
 
