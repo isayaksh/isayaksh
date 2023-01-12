@@ -23,11 +23,6 @@
   <a href="https://velog.io/@isayaksh">
     <img height="25px" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=000000"/>
   </a>
-  <a href="https://south-license-edf.notion.site/fcadca1adebc42e9885d97b65a389fdf">
-    <img height="25px" src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=notion&logoColor=000000"/>
-  </a>
-</div>
-<div flex="float" align="center">
   <a href="https://solved.ac/isayaksh">
     <img height="25px" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=isayaksh"/>
   </a>
