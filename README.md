@@ -29,6 +29,9 @@
 
 #
 
-|Most Used Language|GitHub Stats|
-|:-:|:-:|
-|<img width="500px" src="https://github-readme-stats.vercel.app/api?username=isayaksh&theme=merko&show_icons=true"/>|<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isayaksh&theme=merko&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>|
+<div flex="float" align="center">
+  <h3> Most Used Language </h3>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=isayaksh&theme=merko&show_icons=true"/>
+  <h3> Most Used Language </h3>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isayaksh&theme=merko&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+</div>
