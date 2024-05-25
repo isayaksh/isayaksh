@@ -14,14 +14,14 @@
 </div>
 
 <div flex="float" align="center">
-  <h3>⚡ DATABASE </h3>
+  <h3> 🪣 DATABASE </h3>
   <img height="25px" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 </div>
 
 <div flex="float" align="center">
-  <h3>⚡ Cloud </h3>
+  <h3> ☁ Cloud </h3>
   <img height="25px" src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/API Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
@@ -30,7 +30,7 @@
 </div>
 
 <div flex="float" align="center">
-  <h3>⚡ TECH-TOOLS </h3>
+  <h3> 🛠 ETC </h3>
   <img height="25px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
@@ -38,14 +38,13 @@
 </div>
 
 <div flex="float" align="center">
-  <h3>⚡ COLLABORATION-TOOLS </h3>
   <img height="25px" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/GitHub Issue-181717?style=flat-square&logo=github&logoColor=white"/>
   <img height="25px" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </div>
 
 <div flex="float" align="center">
-  <h3>⚡ FRONT-END </h3>
+  <h3> 🖥 FRONT-END </h3>
   <img height="25px" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img height="25px" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img height="25px" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
